@@ -12,11 +12,11 @@ to play around with relativity unstable code. Instead, check out the various dif
 ==Dependencies==
 Flexigrid for Wicket is compiled against the following dependencies libraries. Make sure you grab them after you
 download it as not all of them are included in the download:
- * Apache Wicket 1.5.3 ([http://www.apache.org/dyn/closer.cgi/wicket/1.5.3 Download it Here]
- * Google GSON 2.1 (Included or [http://code.google.com/p/google-gson/downloads/detail?name=google-gson-2.1-release.zip&can=2&q= Download it Here]
- * Problexi Common DAO Library (Included or [http://code.google.com/p/problexi-common-dao-library/downloads/detail?name=com.problexi.common-1.0.0.jar&can=2&q= Download it Here]
+ * Apache Wicket 1.5.3 ([http://www.apache.org/dyn/closer.cgi/wicket/1.5.3 Download it Here])
+ * Google GSON 2.1 (Included or [http://code.google.com/p/google-gson/downloads/detail?name=google-gson-2.1-release.zip&can=2&q= Download it Here])
+ * Problexi Common DAO Library (Included or [http://code.google.com/p/problexi-common-dao-library/downloads/detail?name=com.problexi.common-1.0.0.jar&can=2&q= Download it Here])
  * JDK 6
 
 In addition, you'll need Flexigrid and jQuery:
- * Flexigrid 1.1 (Included or http://code.google.com/p/flexigrid/downloads/detail?name=flexigrid-1.1.zip&can=2&q= Download it Here]
+ * Flexigrid 1.1 (Included or [http://code.google.com/p/flexigrid/downloads/detail?name=flexigrid-1.1.zip&can=2&q= Download it Here])
  * jQuery 1.5 (Included)
